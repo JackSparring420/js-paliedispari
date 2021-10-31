@@ -21,7 +21,7 @@
 //   } else {
 //     console.log('la parola non è palindroma');
 // }
-
+ 
 // SOLUZIONE 2
 
 // chiedo all'utente di inserire una parola
