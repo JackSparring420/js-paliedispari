@@ -15,9 +15,9 @@ console.log("scelta utante " + numero);
 function randomGenerator (num){
     num = Math.floor (num);
     let random = Math.floor(Math.random() * (num + 1));
+    console.log("scelta pc " + random);
     return random;
 }
-console.log(randomGenerator());
 
 
 // pari
