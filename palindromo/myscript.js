@@ -27,7 +27,7 @@
 // chiedo all'utente di inserire una parola
 const parola = prompt("inserisci una parola:");
 // creo una funzione per sapere se la parola è palindroma
-//creo una equazione bolleana per dichiarare se la parola è palindroma dentro la funzione
+//creo una equazione booleana per dichiarare se la parola è palindroma dentro la funzione
   let parolaPalindroma = false
 function invertiParola(str){
 //creo una variabile dove inserire la parola composta al contrario
